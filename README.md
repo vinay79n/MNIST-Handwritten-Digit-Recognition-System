@@ -6,3 +6,4 @@ I used Deep Neural Network to train the model and achived close to 92% accuracy 
 
 The project also has streamlit UI in which we used the saved pretrained model to make predictions on new data that user can upload in the streamlit UI page and make predictions
 
+Youtube Video Link of Project Demo - [ https://youtu.be/eIJkGOmwD1M ]
